@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# GOLANG LANDING PAGE WEB TEMPLATE
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/golangwebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![golang website landing page template themes source code free download gratis](https://1.bp.blogspot.com/-wamfMWqTbqc/YYFEGzSyxDI/AAAAAAAARms/nh1ZHYT36CUM2YRv15RNuDGnIrTpyvoAgCLcBGAsYHQ/s1024/free%2Bdownload%2Bsource%2Bcode%2Bgolang%2Bwebsite%2Btemplate%2Bthemes%2Blanding%2Bpage%2B%25281%2529.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+create website using golang with landing page design.
 
-### Markdown
+demo [https://axcora.herokuapp.com →](https://axcora.herokuapp.com/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Documentation how to install :  [https://www.hockeycomputindo.com/2021/11/golang-website-template-landing-page.html →](https://www.hockeycomputindo.com/2021/11/golang-website-template-landing-page.html)
 
-```markdown
-Syntax highlighted code block
+display 
 
-# Header 1
-## Header 2
-### Header 3
+![golang website landing page template themes source code free download gratis](https://1.bp.blogspot.com/-JHBRzxjnniU/YYFEItd81GI/AAAAAAAARnA/MudtvpD9sho-A3yWpshFia5CvjivAYtJQCLcBGAsYHQ/s3669/free%2Bdownload%2Bsource%2Bcode%2Bgolang%2Bwebsite%2Btemplate%2Bthemes%2Blanding%2Bpage%2B%25282%2529.png)
 
-- Bulleted
-- List
+Full landing page design
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+![golang website landing page template themes source code free download gratis](https://1.bp.blogspot.com/-KrnAQ37BcEA/YYFEJa0pIjI/AAAAAAAARnE/jG4F1_lws14vaQQJNcwWEobqXv1VaJhNQCLcBGAsYHQ/s1349/free%2Bdownload%2Bsource%2Bcode%2Bgolang%2Bwebsite%2Btemplate%2Bthemes%2Blanding%2Bpage%2B%25285%2529.png)
 
-[Link](url) and ![Image](src)
-```
+Desktop Version
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+![golang website landing page template themes source code free download gratis](https://1.bp.blogspot.com/-iIvKwJ0g6Gg/YYFEG-M4WHI/AAAAAAAARmw/0fik5Sw6ooMNGpl2hicMg32CFd_n6mEUQCLcBGAsYHQ/s671/free%2Bdownload%2Bsource%2Bcode%2Bgolang%2Bwebsite%2Btemplate%2Bthemes%2Blanding%2Bpage%2B%25281%2529.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/golangwebsite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+mobile version
 
-### Support or Contact
+![golang website landing page template themes source code free download gratis](https://1.bp.blogspot.com/-225E8abj7KE/YYFEI7GRQ9I/AAAAAAAARm8/ebL2YghK-r808QDPiIa_yuCSH1QoStc6ACLcBGAsYHQ/s671/free%2Bdownload%2Bsource%2Bcode%2Bgolang%2Bwebsite%2Btemplate%2Bthemes%2Blanding%2Bpage%2B%25284%2529.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+menu bar display
+
+
+Documentation how to install :  [https://www.hockeycomputindo.com/2021/11/golang-website-template-landing-page.html →](https://www.hockeycomputindo.com/2021/11/golang-website-template-landing-page.html)
+
+--------------------------------------------------------------------------------------------------------------------
+
+### Buy me a coffee ☕️ ❤️  ✌🏻 
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
+
+--------------------------------------------------------------------------------------------------------------------
+
