@@ -6,6 +6,8 @@ create website using golang with landing page design.
 
 demo [https://axcora.herokuapp.com →](https://axcora.herokuapp.com/)
 
+[watch video →](https://youtu.be/tDEKomrf908)
+
 Documentation how to install :  [https://www.hockeycomputindo.com/2021/11/golang-website-template-landing-page.html →](https://www.hockeycomputindo.com/2021/11/golang-website-template-landing-page.html)
 
 display 
