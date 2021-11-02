@@ -29,6 +29,8 @@ mobile version
 menu bar display
 
 
+Documentation how to install :  [https://www.hockeycomputindo.com/2021/11/golang-website-template-landing-page.html →](https://www.hockeycomputindo.com/2021/11/golang-website-template-landing-page.html)
+
 --------------------------------------------------------------------------------------------------------------------
 
 ### Buy me a coffee ☕️ ❤️  ✌🏻 
