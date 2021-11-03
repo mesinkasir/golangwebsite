@@ -28,7 +28,7 @@ mobile version
 
 ![golang website landing page template themes source code free download gratis](https://1.bp.blogspot.com/-225E8abj7KE/YYFEI7GRQ9I/AAAAAAAARm8/ebL2YghK-r808QDPiIa_yuCSH1QoStc6ACLcBGAsYHQ/s671/free%2Bdownload%2Bsource%2Bcode%2Bgolang%2Bwebsite%2Btemplate%2Bthemes%2Blanding%2Bpage%2B%25284%2529.png)
 
-menu bar display
+menu bar display on mobile version
 
 
 Documentation how to install :  [https://www.hockeycomputindo.com/2021/11/golang-website-template-landing-page.html →](https://www.hockeycomputindo.com/2021/11/golang-website-template-landing-page.html)
